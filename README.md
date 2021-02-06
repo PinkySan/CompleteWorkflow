@@ -4,13 +4,13 @@ This consists on the following parts
 * Git-Server (e.g Gitlab or Github)
 * Package-Server (e.g Atlassian C/C++ Package Manager)
 * Build-Server (e.g Jenkins, Github Actions, Gitlab Pipeline)
+* Software Quality server (e.g Codacy, Sonarcloud, Sonarcube)
 
 Further information might be in the wiki
 
 ## Constraints
 Every part should be editable, on premise and free.
 Furthermore the complete toolchain might be downloadable by docker.
-
 
 ## Goal
 The complete workflow should be runable within 
