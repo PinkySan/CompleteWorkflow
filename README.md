@@ -5,6 +5,7 @@ This consists on the following parts
 * Package-Server (e.g Atlassian C/C++ Package Manager)
 * Build-Server (e.g Jenkins, Github Actions, Gitlab Pipeline)
 * Software Quality server (e.g Codacy, Sonarcloud, Sonarcube)
+* Password Manager (e.g OpenLDAP)
 
 Further information might be in the wiki
 
